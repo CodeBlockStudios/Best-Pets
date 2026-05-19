@@ -1,7 +1,5 @@
 # Best Pets Adoption Agency
 
-### Link: https://bit.ly/BestPetsAdoption
-
 ## <br> Introduction
 Drafted, designed, and implemented in under a month, the **Best Pets Adoption Agency** website was my first major HTML/CSS implementation.
 
